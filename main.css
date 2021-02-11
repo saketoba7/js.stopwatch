@@ -1,0 +1,27 @@
+body{
+  text-align: center;
+    position: absolute;
+    margin: auto;
+    top: 80px;
+    right: 0;
+    bottom: 80px;
+    left: 0;
+    background-color: #ffffff;
+}
+
+h3{
+  margin-right: 7%;
+  font-size: 20px;
+}
+
+#timer{
+  margin-right: 100px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 30px;
+}
+
+.button{
+  font-weight: bold;
+padding: 10px;
+}
